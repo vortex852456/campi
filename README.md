@@ -1,6 +1,6 @@
 # campi
-Docker camera module for RPI (only tested with RPI Zero W Rev 1.1)
-based on rpos (https://github.com/BreeeZe/rpos)
+Docker ONVIF camera module for RPI (only tested with RPI Zero W Rev 1.1).
+Powered by rpos (https://github.com/BreeeZe/rpos)
 
 ## Use with docker-compose.yml
 ```
