@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  campi:
+    image: vortex852456/campi:latest
+    container_name: campi
+    build: .
+    ports:
+      - 8081:8081
+      - 8554:8554
+    devices:
+      - /dev/video0:/dev/video0
