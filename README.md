@@ -15,3 +15,7 @@ services:
     devices:
       - /dev/video0:/dev/video0
 ```
+
+## Change preferences
+You can clone and modify by your needs.
+Feel free to implement environment variables for changing settings and create a pull request.
