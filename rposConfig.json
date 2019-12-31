@@ -2,8 +2,8 @@
   "NetworkAdapters": ["awdl0", "eth0", "wlan0", "en0"],
   "IpAddress": "192.168.178.4",
   "ServicePort": 8081,
-  "Username": "admin",
-  "Password": "vortex",
+  "Username": "yourUsername",
+  "Password": "yourPassword",
   "RTSPAddress": "",
   "//": "Normally left blank. Used to set RTSP Server Address",
   "RTSPPort": 8554,
@@ -29,8 +29,8 @@
   "PTZCameraAddress": 1,
   "DeviceInformation": {
     "Manufacturer": "Raspberry Pi",
-    "Model": "2 B",
-    "HardwareId": ""
+    "Model": "Zero W",
+    "HardwareId": "Rev 1.1"
   },
   "logLevel": 3,
   "logLevelComment": "## LogLevels are > 1:Error 2:Warning 3:Info 4:Debug",
